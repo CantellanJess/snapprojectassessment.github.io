@@ -1,14 +1,19 @@
-body {background-image: url("sunflower.jpg.webp"); font-family: "Bradley Hand", Cursive;}
+body { font-family: "Bradley Hand", Cursive;}
 
-header {text-align: center; background-color: RGB(209, 190, 168); border: 5px ridge yellow;}
+header {text-align: center; background-color: RGB(183, 230, 219); border: 5px ridge rgb(219, 230, 231);}
 
 .needle{ width: 200px; height: 250px; border-radius: 50%; }
-img{ width: 200px; height: 250px;}
+img{ width: 150px; height: 150px; border-radius: 50%; }
 
-main {text-align: center; background-color: RGB(209, 190, 168); border: 5px ridge yellow;}
+main {text-align: center; background-color: RGB(94, 208, 213); border: 5px ridge rgb(219, 230, 231);}
 
-nav {text-align: center; background-color: RGB(209, 190, 168); border: 5px ridge yellow;}
+nav {text-align: center; align-content: center; background-color: RGB(251, 201, 53); border: 5px ridge rgb(219, 230, 231);}
+.headbands {display:inline-block; vertical-align:center; width: 250px; height: 200px;}
+.scrunchies { display:inline-block; vertical-align:center; width: 250px; height: 200px;}
+.wallets { display:inline-block; vertical-align:center; width: 250px; height: 200px;}
+.themed { display:inline-block; vertical-align:center; width: 250px; height: 200px;}
+.seasonal { display:inline-block; vertical-align:center; width: 250px; height: 200px;}
 
-div {text-align: center; background-color: RGB(209, 190, 168); border: 5px ridge yellow;}
+div {text-align: center; background-color: RGB(250, 163, 137); border: 5px ridge rgb(219, 230, 231);}
 
-footer {text-align: center; background-color: RGB(209, 190, 168); border: 5px ridge yellow;}
+footer {text-align: center; background-color: RGB(238, 219, 220); border: 5px ridge rgb(219, 230, 231);}
