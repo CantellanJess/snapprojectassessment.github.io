@@ -1,0 +1,25 @@
+body {background-color: rgb(235, 235, 146); font-family: "Bradley Hand", Cursive;}
+
+header {text-align: center; background-color: RGB(209, 190, 168);}
+
+img { width: 200px; height: 250px; border-radius: 50%;}
+
+main {text-align: center; background-color: grey;}
+
+nav {text-align: center; 
+    background-color: red; 
+    float: center; 
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top:10px;
+    width: 100px; 
+    height: 80px; 
+    transition: width 2s, height 4s;}
+.pouches:hover {width:200px; height: 130px}
+.scrunchies:hover {width:200px; height: 130px}
+.headbands:hover {width:200px; height: 130px}
+.keychains:hover {width:200px; height: 130px}
+
+div {text-align: center; background-color: white;}
+
+footer {text-align: center;}
