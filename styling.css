@@ -2,8 +2,12 @@ body { font-family: "Bradley Hand", Cursive;}
 
 header {text-align: center; background-color: RGB(183, 230, 219); border: 5px ridge rgb(219, 230, 231);}
 
-.needle{ width: 200px; height: 250px; border-radius: 50%; }
-img{ width: 150px; height: 150px; border-radius: 50%; }
+.needle{ width: 200px; height: 250px; border-radius: 50%;}
+.nav-one{ width: 150px; height: 150px; border-radius: 50%;}
+.nav-two{ width: 150px; height: 150px; border-radius: 50%;}
+.nav-three{ width: 150px; height: 150px; border-radius: 50%;}
+.nav-four{ width: 150px; height: 150px; border-radius: 50%;}
+.nav-five{ width: 150px; height: 150px; border-radius: 50%;}
 
 main {text-align: center; background-color: RGB(94, 208, 213); border: 5px ridge rgb(219, 230, 231);}
 
@@ -15,5 +19,16 @@ nav {text-align: center; align-content: center; background-color: RGB(251, 201, 
 .seasonal { display:inline-block; vertical-align:center; width: 250px; height: 200px;}
 
 div {text-align: center; background-color: RGB(250, 163, 137); border: 5px ridge rgb(219, 230, 231);}
+.city{width: 200px; height: 200px; margin: 5px;} 
+.car {width: 200px; height: 200px; margin: 5px;}
+.forest{width: 200px; height: 200px; margin: 5px;}
+.building {width: 200px; height: 200px; margin: 5px;}
+.lake {width: 200px; height: 200px; margin: 5px;}
+
+.city:hover{opacity: 0.5;}
+.car:hover{opacity: 0.5;}
+.forest:hover{opacity: 0.5;}
+.building:hover{opacity: 0.5;}
+.lake:hover{opacity: 0.5;}
 
 footer {text-align: center; background-color: RGB(238, 219, 220); border: 5px ridge rgb(219, 230, 231);}
