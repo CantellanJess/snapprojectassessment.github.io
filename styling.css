@@ -1,30 +1,31 @@
-body { font-family: "Bradley Hand", Cursive;}
+body {font-family: "Bradley Hand", Cursive;}
 
-header {text-align: center; background-color: RGB(183, 230, 219); border: 8px ridge rgb(3, 4, 4); border-radius: 35px;}
+header {text-align: center; background-color: RGB(251, 163, 137); border: 8px ridge rgb(3, 4, 4); border-radius: 35px;}
 
 .needle{ width: 200px; height: 250px; border-radius: 50%;}
-.nav-one{ width: 150px; height: 150px; border-radius: 50%;}
-.nav-two{ width: 150px; height: 150px; border-radius: 50%;}
-.nav-three{ width: 150px; height: 150px; border-radius: 50%;}
-.nav-four{ width: 150px; height: 150px; border-radius: 50%;}
-.nav-five{ width: 150px; height: 150px; border-radius: 50%;}
 .summer{ width: 300px; height: 250px; border-radius: 35px;}
 
-main {text-align: center; background-color: RGB(94, 208, 213); border: 8px ridge rgb(5, 7, 7); border-radius: 35px;}
+main {text-align: center; background-color: RGB(177, 186, 155); border: 8px ridge rgb(5, 7, 7); border-radius: 35px;}
 
-nav {text-align: center; align-content: center; background-color: RGB(251, 201, 53); border: 8px ridge rgb(3, 4, 4); border-radius: 35px;}
+nav {text-align: center; align-content: center; background-color: RGB(251, 215, 177); border: 8px ridge rgb(3, 4, 4); border-radius: 35px;}
 .headbands {display:inline-block; vertical-align:center; width: 250px; height: 200px; cursor: pointer;}
 .scrunchies { display:inline-block; vertical-align:center; width: 250px; height: 200px; cursor: pointer;}
 .wallets { display:inline-block; vertical-align:center; width: 250px; height: 200px; cursor: pointer;}
 .themed { display:inline-block; vertical-align:center; width: 250px; height: 200px; cursor: pointer;}
 .sets { display:inline-block; vertical-align:center; width: 250px; height: 200px; cursor: pointer;}
 
-div {text-align: center; background-color: RGB(250, 163, 137); border: 8px ridge rgb(2, 3, 4); border-radius: 35px;}
-.headband{width: 200px; height: 200px; margin: 5px; box-shadow: 1px 8px 50px rgb(147, 151, 152); border: 8px ridge rgb(3, 4, 4);} 
-.scrunchie {width: 200px; height: 200px; margin: 5px; box-shadow: 1px 8px 50px rgb(147, 151, 152); border: 8px ridge rgb(3, 4, 4);}
-.wallet{width: 200px; height: 200px; margin: 5px; box-shadow: 1px 8px 50px rgb(147, 151, 152); border: 8px ridge rgb(3, 4, 4);}
-.theme{width: 200px; height: 200px; margin: 5px; box-shadow: 1px 8px 50px rgb(147, 151, 152); border: 8px ridge rgb(3, 4, 4);}
-.set{width: 200px; height: 200px; margin: 5px; box-shadow: 1px 8px 50px rgb(147, 151, 152); border: 8px ridge rgb(3, 4, 4);}
+.nav-one{ width: 150px; height: 150px; border-radius: 50%;}
+.nav-two{ width: 150px; height: 150px; border-radius: 50%;}
+.nav-three{ width: 150px; height: 150px; border-radius: 50%;}
+.nav-four{ width: 150px; height: 150px; border-radius: 50%;}
+.nav-five{ width: 150px; height: 150px; border-radius: 50%;}
+
+div {text-align: center; background-color: RGB(180, 167, 179); border: 8px ridge rgb(2, 3, 4); border-radius: 35px;}
+.headband{width: 200px; height: 200px; margin: 5px; box-shadow: 1px 8px 50px rgb(180, 167, 179); border: 8px ridge rgb(3, 4, 4);} 
+.scrunchie {width: 200px; height: 200px; margin: 5px; box-shadow: 1px 8px 50px rgb(180, 167, 179); border: 8px ridge rgb(3, 4, 4);}
+.wallet{width: 200px; height: 200px; margin: 5px; box-shadow: 1px 8px 50px rgb(180, 167, 179); border: 8px ridge rgb(3, 4, 4);}
+.theme{width: 200px; height: 200px; margin: 5px; box-shadow: 1px 8px 50px rgb(180, 167, 179); border: 8px ridge rgb(3, 4, 4);}
+.set{width: 200px; height: 200px; margin: 5px; box-shadow: 1px 8px 50px rgb(180, 167, 179); border: 8px ridge rgb(3, 4, 4);}
 
 /*Hover animations*/
 .headband:hover{opacity: 0.5;}
@@ -33,5 +34,5 @@ div {text-align: center; background-color: RGB(250, 163, 137); border: 8px ridge
 .theme:hover{opacity: 0.5;}
 .set:hover{opacity: 0.5;}
 
-footer {text-align: center; background-color: RGB(238, 219, 220); border: 8px ridge rgb(3, 4, 4); border-radius: 35px;}
-.contact-button {width: 250px; height: 200px; background-color: RGB(238, 219, 220); color: black; cursor: pointer; width: 100px; height: 100px; border-radius: 50%;}
+footer {text-align: center; background-color: RGB(105, 88, 95); border: 8px ridge rgb(3, 4, 4); border-radius: 35px;}
+.contact-button {background-color: RGB(105, 88, 95); cursor: pointer; width: 100px; height: 100px; border-radius: 50%;}
