@@ -27,7 +27,7 @@ div {text-align: center; background-color: RGB(180, 167, 179); border: 8px ridge
 .theme{width: 200px; height: 200px; margin: 5px; box-shadow: 1px 8px 50px rgb(180, 167, 179); border: 8px ridge rgb(3, 4, 4);}
 .set{width: 200px; height: 200px; margin: 5px; box-shadow: 1px 8px 50px rgb(180, 167, 179); border: 8px ridge rgb(3, 4, 4);}
 
-/*Hover animations for gallery*/
+/*Hover animations for photo gallery*/
 .headband:hover{opacity: 0.5;}
 .scrunchie:hover{opacity: 0.5;}
 .wallet:hover{opacity: 0.5;}
